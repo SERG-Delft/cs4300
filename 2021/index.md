@@ -13,7 +13,7 @@ Software tends to rot over time. Lehman has indeed predicted that, without actio
 
 ## Lecturer
 
-<img src="/img/mauricio.jpg" width="100px">
+<img src="{{ "/img/mauricio.jpg" | relative_url }}" width="100px">
 [Dr. Maurício Aniche](https://www.mauricioaniche.com). Contact him via e-mail.
 
 ## Learning objectives
