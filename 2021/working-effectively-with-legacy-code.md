@@ -8,4 +8,4 @@ In this lecture, we will discuss two chapters of the [_Working Effectively with 
 * Chapter 9: I Can't Get This Class into a Test Harness
 * Chapter 20: This Class Is Too Big and I Don't Want It to Get Any Bigger
 
-<img src="/img/books/wewlc.jpeg" class="book-cover">
+<img src="{{ '/img/books/wewlc.jpeg' | relative_url }}" class="book-cover">

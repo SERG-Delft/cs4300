@@ -8,4 +8,4 @@ In this lecture, we will discuss two chapters of the [_Building Maintainable Sof
 * Chapter 6: Separate Concerns in Modules
 * Chapter 7: Couple Architecture Components Loosely
 
-<img src="/img/books/bms.jpeg" class="book-cover">
+<img src="{{ '/img/books/bms.jpeg' | relative_url }}" class="book-cover">

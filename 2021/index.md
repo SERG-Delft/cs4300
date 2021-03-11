@@ -58,17 +58,17 @@ At the end of the quarter, students have to deliver (i) all the tools they devel
 | 4.1  | 21/April | Introduction to CS4300              | 
 |      | 22/April | <a href="{{ '2021/refactoring-at-scale' | relative_url }}">Refactoring at Scale, by Lemaire</a> | 
 | 4.2  | 28/April | <a href="{{ '2021/building-maintainable-software' | relative_url }}">Building maintainable software, by Visser et al</a> |
-|      | 29/April | [Refactoring to Patterns, by Kerievsky](/2021/refactoring-to-patterns)               | 
-| 4.3  | 6/May    | [Refactoring workbook, by Wake](/2021/refactoring-workbook)                                      | 
-| 4.4  | 12/May   | [Working Effectively with Legacy Code, by Feathers](/2021/working-effectively-with-legacy-code) | 
-| 4.5  | 19/May   | [Empirical studies - I](/2021/empirical-studies-1) | 
-|      | 20/May   | [Empirical studies - II](/2021/empirical-studies-2) | 
-| 4.6  | 26/May   | [Code smells](/2021/code-smells) | 
-|      | 27/May   | [Green refactoring](/2021/green-refactoring) | 
-| 4.7  | 2/June   | [Mining refactorings](/2021/mining-refactorings) | 
-|      | 3/June   | [Search-based software refactoring](/2021/search-based-software-refactoring) | 
-| 4.8  | 9/June   | [Refactoring recommendation](/2021/refactoring-recommendations) | 
-|      | 10/June  | [Guest lecture: TBD](/2021/guest-lecture) | 
+|      | 29/April | <a href="{{ '2021/refactoring-to-patterns' | relative_url }}">Refactoring to Patterns, by Kerievsky</a>               | 
+| 4.3  | 6/May    | <a href="{{ '2021/refactoring-workbook' | relative_url }}">Refactoring workbook, by Wake</a>                                      | 
+| 4.4  | 12/May   | <a href="{{ '2021/working-effectively-with-legacy-code' | relative_url }}">Working Effectively with Legacy Code, by Feathers</a> | 
+| 4.5  | 19/May   | <a href="{{ '2021/empirical-studies-1' | relative_url }}">Empirical studies - I</a> | 
+|      | 20/May   | <a href="{{ '2021/empirical-studies-2' | relative_url }}">Empirical studies - II</a> | 
+| 4.6  | 26/May   | <a href="{{ '2021/code-smells' | relative_url }}">Code smells</a> | 
+|      | 27/May   | <a href="{{ '2021/green-refactoring' | relative_url }}">Green refactoring</a> | 
+| 4.7  | 2/June   | <a href="{{ '2021/mining-refactorings' | relative_url }}">Mining refactorings</a> | 
+|      | 3/June   | <a href="{{ '2021/search-based-software-refactoring' | relative_url }}">Search-based software refactoring</a> | 
+| 4.8  | 9/June   | <a href="{{ '2021/refactoring-recommendations' | relative_url }}">Refactoring recommendation</a> | 
+|      | 10/June  | <a href="{{ '2021/guest-lecture' | relative_url }}">Guest lecture: TBD</a> | 
 | 4.9  |          | (no lectures) | 
 | 4.10 | 24/June  | Final presentations | 
 

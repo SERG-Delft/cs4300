@@ -8,4 +8,4 @@ In this lecture, we will discuss two chapters of the [_Refactoring to Patterns_]
 * Chapter 4: Patterns
 * Chapter 8: Generalization
 
-<img src="/img/books/rtp.jpeg" class="book-cover">
+<img src="{{ '/img/books/rtp.jpeg' | relative_url }}" class="book-cover">

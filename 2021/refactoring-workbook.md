@@ -8,4 +8,4 @@ In this lecture, we will discuss two chapters of the [_Refactoring Workbook_](ht
 * Chapter 1: Smells within classes
 * Chapter 2: Smells between classes
 
-<img src="/img/books/rw.jpeg" class="book-cover">
+<img src="{{ '/img/books/rw.jpeg' | relative_url }}" class="book-cover">
