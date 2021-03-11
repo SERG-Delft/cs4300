@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+
+
+@media (max-width:629px) {
+  .photo-small, .photo {
+    display: none;
+  }
+
+	
+}
+
+
+body {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+	font-weight: 300;
+	font-family: "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12pt;
+	line-height: 1.75em;
+
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 1em;
+}
+
+.note {
+	background-color: #c1f5be;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    border: 3px solid #699264;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+
+.imgheader {
+	border-bottom: 10px solid #efefef;
+	border-left: 10px solid #efefef;
+	border-right: 10px solid #efefef;
+}
+
+h1, h2, h3 {
+	font-family: Bree+Serif, serif;
+	clear: both;
+	display: block;
+}
+
+h2 {
+	margin-top: 1em;
+}
+
+table {
+	width: 100%;
+}
+
+
+td,  th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.book-cover {
+	width: 200px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
