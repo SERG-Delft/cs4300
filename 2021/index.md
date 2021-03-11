@@ -56,8 +56,8 @@ At the end of the quarter, students have to deliver (i) all the tools they devel
 
 | Week | Date.    | Topic                                              |
 | 4.1  | 21/April | Introduction to CS4300              | 
-|      | 22/April | [Refactoring at Scale, by Lemaire]({{ site.baseurl }}{% link 2021/refactoring-at-scale.md %}) | 
-| 4.2  | 28/April | [Building maintainable software, by Visser et al]({{ site.baseurl }}{% link 2021/building-maintainable-software.md %}) |
+|      | 22/April | [Refactoring at Scale, by Lemaire]({% link 2021/refactoring-at-scale.md | relative_url %}) | 
+| 4.2  | 28/April | [Building maintainable software, by Visser et al]({% link 2021/building-maintainable-software.md | relative_url %}) |
 |      | 29/April | [Refactoring to Patterns, by Kerievsky](/2021/refactoring-to-patterns)               | 
 | 4.3  | 6/May    | [Refactoring workbook, by Wake](/2021/refactoring-workbook)                                      | 
 | 4.4  | 12/May   | [Working Effectively with Legacy Code, by Feathers](/2021/working-effectively-with-legacy-code) | 
