@@ -66,8 +66,8 @@ At the end of the quarter, students have to deliver (i) all the tools they devel
 | 4.6  | 26/May   | [Code smells](/2021/code-smells) | 
 |      | 27/May   | [Green refactoring](/2021/green-refactoring) | 
 | 4.7  | 2/June   | [Mining refactorings](/2021/mining-refactorings) | 
-|      | 3/June   | [Refactoring recommendation - I](/2021/refactoring-recommendations-1) | 
-| 4.8  | 9/June   | [Refactoring recommendation - II](/2021/refactoring-recommendations-2) | 
+|      | 3/June   | [Search-based software refactoring](/2021/search-based-software-refactoring) | 
+| 4.8  | 9/June   | [Refactoring recommendation](/2021/refactoring-recommendations) | 
 |      | 10/June  | [Guest lecture: TBD](/2021/guest-lecture) | 
 | 4.9  |          | (no lectures) | 
 | 4.10 | 24/June  | Final presentations | 
