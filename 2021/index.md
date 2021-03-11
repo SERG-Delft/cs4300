@@ -56,11 +56,11 @@ At the end of the quarter, students have to deliver (i) all the tools they devel
 
 | Week | Date.    | Topic                                              |
 | 4.1  | 21/April | Introduction to CS4300              | 
-|      | 22/April | <a href="{{ '2021/refactoring-at-scale' | relative_url }}">Refactoring at Scale, by Lemaire</a> | 
-| 4.2  | 28/April | <a href="{{ '2021/building-maintainable-software' | relative_url }}">Building maintainable software, by Visser et al</a> |
-|      | 29/April | <a href="{{ '2021/refactoring-to-patterns' | relative_url }}">Refactoring to Patterns, by Kerievsky</a>               | 
-| 4.3  | 6/May    | <a href="{{ '2021/refactoring-workbook' | relative_url }}">Refactoring workbook, by Wake</a>                                      | 
-| 4.4  | 12/May   | <a href="{{ '2021/working-effectively-with-legacy-code' | relative_url }}">Working Effectively with Legacy Code, by Feathers</a> | 
+|      | 22/April | <a href="{{ '2021/refactoring-at-scale' | relative_url }}">Refactoring at Scale, by Maude Lemaire</a> | 
+| 4.2  | 28/April | <a href="{{ '2021/building-maintainable-software' | relative_url }}">Building maintainable software, by Joost Visser et al</a> |
+|      | 29/April | <a href="{{ '2021/refactoring-to-patterns' | relative_url }}">Refactoring to Patterns, by Joshua Kerievsky</a>               | 
+| 4.3  | 6/May    | <a href="{{ '2021/refactoring-workbook' | relative_url }}">Refactoring workbook, by William Wake</a>                                      | 
+| 4.4  | 12/May   | <a href="{{ '2021/working-effectively-with-legacy-code' | relative_url }}">Working Effectively with Legacy Code, by Michael Feathers</a> | 
 | 4.5  | 19/May   | <a href="{{ '2021/empirical-studies-1' | relative_url }}">Empirical studies - I</a> | 
 |      | 20/May   | <a href="{{ '2021/empirical-studies-2' | relative_url }}">Empirical studies - II</a> | 
 | 4.6  | 26/May   | <a href="{{ '2021/code-smells' | relative_url }}">Code smells</a> | 
