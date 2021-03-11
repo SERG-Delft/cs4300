@@ -54,7 +54,7 @@ At the end of the quarter, students have to deliver (i) all the tools they devel
 
 
 
-| Week | Date.    | Topic                                              |
+| Week | Date     | Topic                                              |
 | 4.1  | 21/April | Introduction to CS4300              | 
 |      | 22/April | <a href="{{ '2021/refactoring-at-scale' | relative_url }}">Refactoring at Scale, by Maude Lemaire</a> | 
 | 4.2  | 28/April | <a href="{{ '2021/building-maintainable-software' | relative_url }}">Building maintainable software, by Joost Visser et al</a> |
