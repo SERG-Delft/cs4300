@@ -91,6 +91,9 @@ Notes:
 
 ## FAQ
 
+* _**How do I access the books and the papers?**_
+As a TU Delft student, you have full access to O'Reilly library. Create an account there. You can also find the papers using Google Scholar. If there is no open version available, you have access to IEEE, ACM, and other libraries via TU Delft VPN. 
+
 * _**Are the reading compulsory?**_
 Yes. This is a seminar course. If you have any issue that would prevent you from reading the chapters, please e-mail me.
 
