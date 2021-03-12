@@ -25,4 +25,4 @@ PostgreSQL, and gdb.
 * TBD
 
 
-<img src="{{ "/img/guests/diomidis.jpg" | relative_url }}" width="100px">
+<img src="{{ "/img/guests/diomidis.jpg" | relative_url }}" width="250px">
