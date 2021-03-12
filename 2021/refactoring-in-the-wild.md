@@ -23,3 +23,6 @@ include the Linux, FreeBSD, and Solaris kernels, Apache httpd, awk,
 PostgreSQL, and gdb.
 
 * TBD
+
+
+<img src="{{ "/img/guests/diomidis.jpg" | relative_url }}" width="100px">
