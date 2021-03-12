@@ -1,6 +1,6 @@
 ---
 layout: tud
-title: Software Refactoring (CS4300)
+title: Seminar on Software Refactoring (CS4300)
 ---
 
 Modern software systems never stop to grow; and they grow fast. To catch up with the speed of the highly dynamic and complex society we now live in, companies deliver new features to their software systems virtually every second of the day. After all, the faster a new feature gets to the market, the better. 
