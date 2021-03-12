@@ -5,7 +5,7 @@ title: Refactoring in the wild, with Diomidis Spinellis and TBD
 
 We have two talks:
 
-* Diomidis Spinellis on _CScout, the C refactoring browser_: Despite its maturity and popularity, 
+* [Diomidis Spinellis](https://www.linkedin.com/in/dspinellis/) on _CScout, the C refactoring browser_: Despite its maturity and popularity, 
 the C programming language still
 lacks tool support for reliably performing even simple refactoring,
 browsing, or analysis operations. This is primarily due to identifier
