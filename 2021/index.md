@@ -68,7 +68,7 @@ At the end of the quarter, students have to deliver (i) all the tools they devel
 | 4.7  | 2/June   | <a href="{{ '2021/mining-refactorings' | relative_url }}">Mining refactorings</a> | 
 |      | 3/June   | <a href="{{ '2021/search-based-software-refactoring' | relative_url }}">Search-based software refactoring</a> | 
 | 4.8  | 9/June   | <a href="{{ '2021/refactoring-recommendations' | relative_url }}">Refactoring recommendation</a> | 
-|      | 10/June  | <a href="{{ '2021/guest-lecture' | relative_url }}">Guest lecture: TBD</a> | 
+|      | 10/June  | <a href="{{ '2021/refactoring-in-the-wild' | relative_url }}">Refactoring in the wild, with Diomidis Spinellis and TBD</a> | 
 | 4.9  |          | (no lectures) | 
 | 4.10 | 24/June  | Final presentations | 
 
