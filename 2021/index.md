@@ -35,6 +35,12 @@ each lecture has a different topic. The study flow is:
 * In the lecture slot, we discuss the two readings. 45 minutes for each.
 * A randomly chosen student takes notes of the main points that emerge out of our discussion and submits a PR to this website.
 
+This is a 5 ECTS course, so we expect around 14 hours of dedication a week:
+
+* 4 hours reading the required chapters and papers
+* 4 hours in the lectures discussing the readings with all the students
+* 6 hours working on the project of the course
+
 ## Course project
 
 In groups of 3-4, students work on a research project with the focus of getting a deeper understanding on a software refactoring problem and/or technique. Topics that can be explored are the same as our related literature:
@@ -47,7 +53,9 @@ In groups of 3-4, students work on a research project with the focus of getting 
 
 To that aim, students might make use of (i) mining software repositories techniques, (ii) artificial intelligence and/or machine learning, (iii) program analysis and AST parsing, (iv) qualitative research and/or controlled experiment methods, and (iv) any other method as long as agreed with the lecturer.
 
-At the end of the quarter, students have to deliver (i) all the tools they developed, (ii) all the data they collect, (iii) a 6-10 pages double-column paper report. Finally, students will present their work in a "conference style" afternoon.
+At the end of the quarter, students have to deliver (i) all the tools they developed, (ii) all the data they collect, (iii) a 6-10 pages double-column paper report, (iv) a 15-minutes video that summarises the project, (v) a group weekly diary that reports how each student spent their hours. Finally, students will present their work in a "conference style" afternoon.
+
+Do you need help with coming up with a project? Look at our (private) "project ideas" page in Brightspace, or talk to me.
 
 
 ## Schedule
@@ -62,7 +70,7 @@ At the end of the quarter, students have to deliver (i) all the tools they devel
 | 4.3  | 6/May    | <a href="{{ '2021/refactoring-workbook' | relative_url }}">Refactoring workbook, by William Wake</a>                                      | 
 | 4.4  | 12/May   | <a href="{{ '2021/working-effectively-with-legacy-code' | relative_url }}">Working Effectively with Legacy Code, by Michael Feathers</a> | 
 | 4.5  | 19/May   | <a href="{{ '2021/empirical-studies-1' | relative_url }}">Empirical studies - I</a> | 
-|      | 20/May   | <a href="{{ '2021/empirical-studies-2' | relative_url }}">Empirical studies - II</a> | 
+|      | 20/May   | <a href="{{ '2021/empirical-studies-2' | relative_url }}">Empirical studies - II</a> |  
 | 4.6  | 26/May   | <a href="{{ '2021/code-smells' | relative_url }}">Code smells</a> | 
 |      | 27/May   | <a href="{{ '2021/green-refactoring' | relative_url }}">Green refactoring</a> | 
 | 4.7  | 2/June   | <a href="{{ '2021/mining-refactorings' | relative_url }}">Mining refactorings</a> | 
@@ -70,7 +78,7 @@ At the end of the quarter, students have to deliver (i) all the tools they devel
 | 4.8  | 9/June   | <a href="{{ '2021/refactoring-recommendations' | relative_url }}">Refactoring recommendation</a> | 
 |      | 10/June  | <a href="{{ '2021/refactoring-in-the-wild' | relative_url }}">Refactoring in the wild, with Diomidis Spinellis and TBD</a> | 
 | 4.9  |          | (no lectures) | 
-| 4.10 | 24/June  | Final presentations | 
+| 4.10 | 24/June  | Project deadline and final presentations | 
 
 ## Grading
 
