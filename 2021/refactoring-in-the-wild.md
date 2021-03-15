@@ -25,6 +25,6 @@ PostgreSQL, and gdb.
 * [Marc Philipp](https://www.linkedin.com/in/marcphilipp/), principal software engineer at Gradle and main developer of the JUnit5 project. Marc will tell us everything about JUnit 5. Why the development team decided to build JUnit 5 from scratch, lessons learned from the design of JUnit 4, and how JUnit 5 is designed for extensibility.
 
 
-<img src="{{ '/img/guests/diomidis.jpg' | relative_url }}" width="250px">
+<img src="{{ '/img/guests/diomidis.jpg' | relative_url }}" width="250px" style="display: inline; float: left; margin: 2em;">
 
 <img src="{{ '/img/guests/marc.jpeg' | relative_url }}" width="250px">
