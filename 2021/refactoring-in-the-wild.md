@@ -1,6 +1,6 @@
 ---
 layout: tud
-title: Refactoring in the wild, with Diomidis Spinellis and TBD
+title: Refactoring in the wild, with Diomidis Spinellis and Marc Philipp
 ---
 
 We have two talks:
