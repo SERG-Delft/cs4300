@@ -11,3 +11,4 @@ In this lecture, we will discuss two papers:
 Although not compulsory, I also recommend the following papers:
 
 * Bavota, G., Dit, B., Oliveto, R., Di Penta, M., Poshyvanyk, D., & De Lucia, A. (2013, May). An empirical study on the developers' perception of software coupling. In 2013 35th International Conference on Software Engineering (ICSE) (pp. 692-701). IEEE.
+* F. Khomh, M. Di Penta and Y.-G. Guéhéneuc, "An Exploratory Study of the Impact of Code Smells on Software Change-proneness," 16th Working Conference on Reverse Engineering (WCRE'09), Lille, France, October 2009, pp. 75-84.
