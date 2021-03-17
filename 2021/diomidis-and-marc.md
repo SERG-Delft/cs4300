@@ -1,6 +1,6 @@
 ---
 layout: tud
-title: Guest lecture: Diomidis Spinellis and Marc Philipp
+title: "Guest lecture: Diomidis Spinellis and Marc Philipp"
 ---
 
 We have two guests talking about refactoring:

@@ -1,6 +1,6 @@
 ---
 layout: tud
-title: Introduction to CS4300: Software Refactoring
+title: "Introduction to CS4300: Software Refactoring"
 ---
 
 This is our introductory lecture. We will discuss about the course and how everything works. 

@@ -63,7 +63,7 @@ Do you need help with coming up with a project? Look at our (private) "project i
 
 
 | Week | Date     | Topic                                              |
-| 4.1  | 21/April | <a href="{{ '2021/intro-and-survey' | relative_url }}">Introduction to CS4300: what do we know about refactoring?</a>              | 
+| 4.1  | 21/April | <a href="{{ '2021/intro' | relative_url }}">Introduction to CS4300: what do we know about refactoring?</a>              | 
 |      | 22/April | <a href="{{ '2021/refactoring-at-scale' | relative_url }}">Refactoring at Scale, by Maude Lemaire</a> | 
 | 4.2  | 28/April | <a href="{{ '2021/building-maintainable-software' | relative_url }}">Building maintainable software, by Joost Visser et al</a> |
 |      | 29/April | <a href="{{ '2021/refactoring-to-patterns' | relative_url }}">Refactoring to Patterns, by Joshua Kerievsky</a>               | 
