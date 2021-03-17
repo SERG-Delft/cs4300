@@ -1,9 +1,9 @@
 ---
 layout: tud
-title: Refactoring in the wild, with Diomidis Spinellis and Marc Philipp
+title: Guest lecture: Diomidis Spinellis and Marc Philipp
 ---
 
-We have two talks:
+We have two guests talking about refactoring:
 
 * [Diomidis Spinellis](https://www.linkedin.com/in/dspinellis/) will talk about _CScout, the C refactoring browser_: Despite its maturity and popularity, 
 the C programming language still
