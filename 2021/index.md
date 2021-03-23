@@ -77,7 +77,7 @@ Do you need help with coming up with a project? Look at our (private) "project i
 |      | 3/June   | <a href="{{ '2021/search-based-software-refactoring' | relative_url }}">Search-based software refactoring</a> | 
 | 4.8  | 9/June   | <a href="{{ '2021/refactoring-recommendations' | relative_url }}">Refactoring recommendation</a> | 
 |      | 10/June  | <a href="{{ '2021/diomidis-and-marc' | relative_url }}">Guest lecture: Diomidis Spinellis and Marc Philipp</a> | 
-| 4.9  |          | (no lectures) | 
+| 4.9  | 14/June  | <a href="{{ '2021/felienne-and-hyrum' | relative_url }}">Guest lecture: Felienne Hermans and Hyrum Wright</a> | 
 | 4.10 | 24/June  | Project deadline and final presentations | 
 
 ## Grading
