@@ -27,4 +27,4 @@ PostgreSQL, and gdb.
 
 <img src="{{ '/img/guests/diomidis.jpg' | relative_url }}" width="250px" style="display: inline; float: left; margin: 2em;">
 
-<img src="{{ '/img/guests/marc.jpeg' | relative_url }}" width="250px">
+<img src="{{ '/img/guests/marc.jpeg' | relative_url }}" width="250px" style="margin: 2em;">

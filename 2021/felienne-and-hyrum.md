@@ -11,4 +11,4 @@ We have two guests talking about refactoring:
 
 <img src="{{ '/img/guests/felienne.jpeg' | relative_url }}" width="250px" style="display: inline; float: left; margin: 2em;">
 
-<img src="{{ '/img/guests/hyrum.jpeg' | relative_url }}" width="250px">
+<img src="{{ '/img/guests/hyrum.jpeg' | relative_url }}" width="250px" style="margin: 2em;">
