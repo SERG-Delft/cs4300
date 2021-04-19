@@ -31,7 +31,7 @@ This is a seminar course, which means most of the course is about reading the ex
 each lecture has a different topic. The study flow is:
 
 * You read the required chapters or papers before the lecture. I suggest you to have the paper in a tablet or in a printed version, so that you can make notes while reading it!
-* You take notes about anything you want to discuss, questions you may have, things you agree or disagree with the author. Each student is responsible for proposing at least one discussion point per chapter, which should be posted in our Mattermost thread. 
+* You take notes about anything you want to discuss, questions you may have, things you agree or disagree with the author. Each student is responsible for proposing at least one discussion point per chapter/paper, which should be posted in our Mattermost thread. 
 * In the lecture slot, we discuss the two readings. 45 minutes for each.
 * A randomly chosen student takes notes of the main points that emerge out of our discussion and submits a PR to this website.
 
