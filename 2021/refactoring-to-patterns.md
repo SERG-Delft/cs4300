@@ -1,6 +1,6 @@
 ---
 layout: tud
-title: Refactoring at Scale
+title: Refactoring to Patterns
 ---
 
 In this lecture, we will discuss two chapters of the [_Refactoring to Patterns_](https://www.oreilly.com/library/view/refactoring-to-patterns/0321213351/) book, by Joshua Kerievsky:
