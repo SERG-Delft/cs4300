@@ -178,15 +178,15 @@ Testing private methods should not be desirable, instead refactor into a differe
 - You can reduce the number of tests by simplifying things. It's something easy to monitor, and the refactoring is not so complicated.
 
 - Example:
-  <img src="{{ '/img/books/working-effectively-with-legacy-code/1.png' | relative_url}}">
+  <img src="{{ '/img/books/working-effectively-with-legacy-code/1.png' | relative_url}}" width="400px">
 
 - originally you have this class but you want to test the private method isolated, so you can move the private method to the new class.
 
-  <img src="{{ '/img/books/working-effectively-with-legacy-code/2.png' | relative_url}}">
+  <img src="{{ '/img/books/working-effectively-with-legacy-code/2.png' | relative_url}}" width="400px">
 
 - in the future you may create a more elegant constructor, and the old constructor will die.
 
-  <img src="{{ '/img/books/working-effectively-with-legacy-code/3.png' | relative_url}}">
+  <img src="{{ '/img/books/working-effectively-with-legacy-code/3.png' | relative_url}}" width="400px">
 
 - Not even in legacy systems, sometimes you're developing something new, and you just don't know much about what you're developing because you're still learning. So the refactoring applies even in Greenfield
 
@@ -226,7 +226,7 @@ How would you handle the situation when your new beautiful system needs to talk 
 
 - Recommend book: Monoliths to Microservices, Sam Newman
 
-  <img src="{{ '/img/books/working-effectively-with-legacy-code/4.png' | relative_url}}">
+  <img src="{{ '/img/books/working-effectively-with-legacy-code/4.png' | relative_url}}" width="400px">
 
 - ORMs (Object-Relational Mapping systems) / Hibernate
 
