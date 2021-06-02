@@ -82,15 +82,15 @@ This paper has a relatively small evaluation set which brings into questions the
 
 ## Discussion
 
-* Machine learning applied in refactoring detection - by extracting refactoring methods from data set and then labelling them, which makes the ML refactoring detection possible. You can also resample it. It could be a thesis master project. 
+* Machine learning applied in refactoring detection - by extracting refactoring methods from data set and then labelling them, which makes the ML refactoring detection possible. You can also resample it. It could be a thesis master project.
 * Similar approaches of refactoringminer or refdiff - source course matching, could be applied in detecting design patterns. The challenge would be that design patterns can manifest themselves in many different kind of ways and hard to specify.
-* Mining refactoring can be done successfully with high precision currently. However, it lacks practical application in development process. When and how could we utilize the refactoring mining tools? 1) The paper mentions the code review process, which helps readers understand and save time 2)Help annotate refactoring and put them in commit messages 3)tools can help collect and detect some potential malicious code(about trusting refactoring tools) 
-* The current trend of mining tools is to fast their speed while the chanllenge is to find all refactorings in some large commits. Precision is pretty good now and performance is really important.
-* Although these mining tools are designed for Java, these algorithms or design format could be reused for other languages as well. But it will be a lot of work to implement these algorithms multiple times. So, presenting source code in a unique way for future implementations that works for any language is a possible good way.
+* Mining refactoring can be done successfully with high precision currently. However, it lacks practical application in the development process. When and how could we utilize the refactoring mining tools? 1) The paper mentions the code review process, which helps readers understand and save time 2)Help annotate refactoring and put them in commit messages 3)tools can help collect and detect some potential malicious code(about trusting refactoring tools)
+The current trend of mining tools is to fast their speed while the challenge is to find all refactorings in some large commits. Precision is pretty good now and performance is really important.
+* Although these mining tools are designed for Java, these algorithms or design formats could be reused for other languages as well. But it will be a lot of work to implement these algorithms multiple times. So, presenting source code in a unique way for future implementations that work for any language is a possibly good way.
 * When doing threshold-based research, there is always a trade-off between precision and question.
 * The refactoringminer paper did a lot of manual work to convince us of its tool.
 * These papers lack a section that discusses the detection of refactoring combined with other operations.
-* MSR mining chanllenge conference: mining data software related to source code
+* MSR mining challenge conference: mining data software related to source code
 
 
 
